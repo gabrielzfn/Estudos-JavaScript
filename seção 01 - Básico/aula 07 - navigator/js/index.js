@@ -1,3 +1,4 @@
+// Pega dois números através da entrada do usuário
 let num1 = prompt('Digite o primeiro número: ');
 let num2 = prompt('Digite o segundo número: ');
 
